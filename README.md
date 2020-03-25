@@ -2,10 +2,11 @@
 
 <strong><h4>Using</h4></strong>
 <p>1. PHP 7.0.6</p>
-<p>2. Jquery 3.4.2</p>
+<p>2. Jquery 3.4.1</p>
 <p>3. Bootstrap 4.4.1</p>
 <p>4. Support Browser Android, Browser IOS, Google Chrome, Modzilla Firefox, Chromium</p>
 <p>5. Restapi PHP</p>
+<p>6. Transportasi JQUERY AJAX</p>
 <br>
 <p>Unjuk Gigi</p>
 <p><img width="720px" src="https://i.imgur.com/aaDZ4Uo.jpg" alt="1" /></p>
